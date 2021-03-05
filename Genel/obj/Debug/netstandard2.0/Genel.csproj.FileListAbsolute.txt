@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\bin\Debug\netstandard2.0\Genel.deps.json
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\bin\Debug\netstandard2.0\Genel.dll
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\bin\Debug\netstandard2.0\ref\Genel.dll
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\bin\Debug\netstandard2.0\Genel.pdb
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\Genel.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\Genel.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\Genel.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\Genel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\Genel.dll
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\ref\Genel.dll
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\Genel.pdb
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\ceviriSayfaları.xaml.g.cs
+C:\Users\lenovo\source\repos\Genel\Genel\Genel\obj\Debug\netstandard2.0\buton.xaml.g.cs

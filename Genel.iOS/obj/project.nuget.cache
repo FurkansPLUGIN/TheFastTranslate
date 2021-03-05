@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8v4eYGW6hFNeeDxIh85g0RSiAABG1nLE1FImAQMy48SY38simGyddDFLlYFL/ubco64+uhbLNpsWMxggH7ksg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\Genel\\Genel\\Genel.iOS\\Genel.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

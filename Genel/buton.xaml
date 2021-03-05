@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Genel.buton"
+             BackgroundColor="Aqua">
+    <Frame BackgroundColor="Aqua" BorderColor="Azure" CornerRadius="25">
+        <Grid BackgroundColor="Aqua" >
+            <Grid.RowDefinitions >
+                <RowDefinition Height="*" ></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+               
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0" BackgroundColor="Aqua" 
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Google" FontSize="25" FontAttributes="Bold"
+                    x:Name="googleFor" Clicked="googleFor_Clicked"></Button>
+            
+            <Button Grid.Row="1" Grid.Column="0" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Yandex" FontSize="25" FontAttributes="Bold"
+                    x:Name="yandexFor" Clicked="yandexFor_Clicked"></Button>
+            
+            <Button Grid.Row="2" Grid.Column="0" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Tureng" FontSize="25" FontAttributes="Bold"
+                    x:Name="turengFor" Clicked="turengFor_Clicked"></Button>
+            
+            <Button Grid.Row="0" Grid.Column="1" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Cambridge" FontSize="25" FontAttributes="Bold"
+                    x:Name="cambridge" Clicked="cambridge_Clicked"></Button>
+            
+            <Button Grid.Row="1" Grid.Column="1" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Bing" FontSize="25" FontAttributes="Bold"
+                    x:Name="bing" Clicked="bing_Clicked"></Button>
+            
+            <Button Grid.Row="2" Grid.Column="1" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Reverso" FontSize="25" FontAttributes="Bold"
+                    x:Name="reverso" Clicked="reverso_Clicked"></Button>
+            
+            <Button Grid.Row="3" Grid.Column="0" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Listen" FontSize="25" FontAttributes="Bold"
+                    x:Name="TextToSpech" Clicked="TextToSpech_Clicked"></Button>
+
+            <Button Grid.Row="3" Grid.Column="1" BackgroundColor="Aqua"
+                    BorderColor="Azure" BorderWidth="7" CornerRadius="25"
+                    Text="Translate" FontSize="25" FontAttributes="Bold"
+                    x:Name="translate" Clicked="translate_Clicked"></Button>
+        </Grid>
+    </Frame>
+</ContentPage>

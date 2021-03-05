@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIwirx2qeEyAFJT5XWQGKQHZdAj09nDKP4SNN4a67Ufa+zoaJm9e9P+7YvPl5Z/PQKgMjqtJ7bXDsPdD6zYhPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\Genel\\Genel\\Genel\\Genel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
